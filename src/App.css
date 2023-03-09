@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+/* ////////////////////////////////////// */
+
+.blueBox {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.greenBox {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+.redBox {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
